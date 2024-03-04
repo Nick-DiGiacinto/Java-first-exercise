@@ -4,7 +4,7 @@ public class Main {
         int product = number(5,2);
         System.out.println("The result is: " + product);
         String username =("Nick", "DG");
-        System.out.println("Il mio username è:  " + username);
+        System.out.println("My username is:  " + username);
         String[] arrayOfAnimal = {"cat", "dog", "lion", "zebra","bear"};
         String[] arrayOfNewAnimal = ArrayOfString(arrayOfAnimal, "elephant");
         for (String i : arrayOfNewAnimal) {
